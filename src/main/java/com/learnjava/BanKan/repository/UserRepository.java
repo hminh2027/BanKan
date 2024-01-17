@@ -1,6 +1,7 @@
-package com.learnjava.BanKan.repository;
+package com.learnjava.bankan.repository;
 
+import com.learnjava.bankan.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
-public class UserRepository extends JpaRepository {
+public interface UserRepository extends JpaRepository<Long, User> {
 }

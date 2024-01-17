@@ -1,4 +1,4 @@
-package com.learnjava.BanKan.handler;
+package com.learnjava.bankan.handler;
 
 public class ExceptionHandler {
 }

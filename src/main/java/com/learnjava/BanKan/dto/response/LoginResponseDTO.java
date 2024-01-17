@@ -1,4 +1,4 @@
-package com.learnjava.BanKan.dto.response;
+package com.learnjava.bankan.dto.response;
 
 public class LoginResponseDTO {
 }

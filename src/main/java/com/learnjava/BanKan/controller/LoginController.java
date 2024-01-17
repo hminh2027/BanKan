@@ -1,4 +1,4 @@
-package com.learnjava.BanKan.controller;
+package com.learnjava.bankan.controller;
 
 public class LoginController {
 }

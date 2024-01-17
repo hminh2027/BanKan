@@ -1,4 +1,4 @@
-package com.learnjava.BanKan.dto.request;
+package com.learnjava.bankan.dto.request;
 
 public class LoginRequestDTO {
 }

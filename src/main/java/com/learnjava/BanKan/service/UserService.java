@@ -1,4 +1,4 @@
-package com.learnjava.BanKan.service;
+package com.learnjava.bankan.service;
 
-public class UserService {
+public interface UserService {
 }

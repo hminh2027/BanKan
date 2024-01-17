@@ -1,4 +1,4 @@
-package com.learnjava.BanKan.config;
+package com.learnjava.bankan.config;
 
 public class SwaggerConfig {
 }
