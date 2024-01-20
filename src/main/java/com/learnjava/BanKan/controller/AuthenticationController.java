@@ -1,4 +1,4 @@
 package com.learnjava.bankan.controller;
 
-public class SignupController {
+public class AuthenticationController {
 }

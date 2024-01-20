@@ -1,7 +1,10 @@
-package com.learnjava.bankan.repository;
+package com.learnjava.BanKan.repository;
 
-import com.learnjava.bankan.entity.User;
+import com.learnjava.BanKan.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
-public interface UserRepository extends JpaRepository<Long, User> {
+import java.util.Optional;
+
+public interface UserRepository extends JpaRepository<User, Integer> {
+    Optional<User> findByEmail(String email);
 }
