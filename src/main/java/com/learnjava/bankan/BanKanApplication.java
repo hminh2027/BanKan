@@ -1,4 +1,4 @@
-package com.learnjava.bankan;
+package com.learnjava.BanKan;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
