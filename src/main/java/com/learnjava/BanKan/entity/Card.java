@@ -19,8 +19,8 @@ public class Card {
     private String prioLevel;
     @Column(name = "card_visibility")
     private String cover;
-    @Column(name = "card_end_date")
-    private Boolean endDate;
+    @Column(name = "card_due_date")
+    private Boolean dueDate;
     @Column(name = "card_is_closed")
     private Boolean isArchived;
     @Column(name = "card_updated_timestamp")
